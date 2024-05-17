@@ -1,5 +1,8 @@
 # CodeAlpha_predictiveModelling
 
+Developed a Linear Regression model to predict housing prices in Boston based on various features. Achieved a moderate model fit with an R-squared value of 0.67, demonstrating strong skills in data analysis, machine learning, and predictive modeling.
+
+
 Its complete analysis of the Boston Housing dataset using linear regression. It uses the scikit-learn library to load the dataset, split it into training and test sets, train a linear regression model, make predictions, and evaluate the model's performance.
 
 
